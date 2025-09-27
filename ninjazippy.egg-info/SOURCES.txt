@@ -1,0 +1,12 @@
+README.md
+setup.py
+ninjazippy/__init__.py
+ninjazippy/cli.py
+ninjazippy/unzipper.py
+ninjazippy/zipper.py
+ninjazippy.egg-info/PKG-INFO
+ninjazippy.egg-info/SOURCES.txt
+ninjazippy.egg-info/dependency_links.txt
+ninjazippy.egg-info/entry_points.txt
+ninjazippy.egg-info/requires.txt
+ninjazippy.egg-info/top_level.txt

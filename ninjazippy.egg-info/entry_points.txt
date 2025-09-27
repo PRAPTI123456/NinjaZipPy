@@ -1,0 +1,2 @@
+[console_scripts]
+ninjazippy = ninjazippy.cli:main
